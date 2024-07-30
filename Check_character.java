@@ -1,5 +1,5 @@
 package practice;
-import java.util.*;
+import java.util.Scanner;
 public class Check_character {
 public static void main(String[] args)
 {
